@@ -29,6 +29,9 @@ export default {
   ** Global CSS
   */
   css: [
+    '@/assets/css/html5reset-1.6.1.css',
+    '@/assets/css/font-awesome.min.css',
+    '@/assets/scss/style.scss'
   ],
   /*
   ** Plugins to load before mounting the App
