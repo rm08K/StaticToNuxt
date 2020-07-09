@@ -1,4 +1,8 @@
-# testworld
+# StaticToNuxt
+
+## Nani kore
+
+課題で作ったBMWのサイトをNuxt.jsで作り直してみる勉強です。
 
 ## Build Setup
 
