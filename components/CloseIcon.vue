@@ -21,7 +21,7 @@
   width: 20px;
   height: 20px;
   margin: 25px 25px 0 auto;
-  color: #000;
+  color: #fff;
 }
 @keyframes appear {
   0% {
