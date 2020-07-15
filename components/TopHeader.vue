@@ -25,7 +25,6 @@
 </template>
 
 <script>
-// import menujs from '~/assets/js/menu.js'
 </script>
 
 <style lang="scss">

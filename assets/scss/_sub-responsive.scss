@@ -1,0 +1,33 @@
+@media screen and (max-width:$pc2Size) {
+    .subMain {
+        &-topVisual,
+        &-topVisual2 {
+            width: 100%;
+            height: auto;
+            margin-top: 0;
+            margin-bottom: 30px;
+        }
+        &-textBox {
+            width: calc(100% - 66px);
+            margin-bottom: 34px;
+            &_flexBox {
+                display: block;
+            }
+            &_p {
+                width: 100%;
+                margin-bottom: 23px;
+            }
+            &_p:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+@media screen and (max-width:$spSize) {
+    .subMain {
+        &-textBox {
+            margin-bottom: 55px;
+        }
+    }
+}
