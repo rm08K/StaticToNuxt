@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <TopHeader />
     <main class="subMain">
       <div class="subMain-topVisual">
         <img src="~assets/images/pic1.jpg" alt="images" class="subMain-topVisual_img">
@@ -18,9 +17,5 @@
 </template>
 
 <script>
-export default {
-  css: [
-    '~assets/scss/_sub.scss'
-  ]
-}
+export default {}
 </script>

@@ -1,0 +1,21 @@
+<template>
+  <div class="container">
+    <main class="subMain">
+        <div class="subMain-topVisual2">
+            <img src="~assets/images/pic6.jpg" alt="images" class="subMain-topVisual2_img">
+        </div>
+        <div class="subMain-textBox">
+            <h1 class="subMain-textBox_h1">経営状況</h1>
+            <h2 class="subMain-textBox_h2">Business conditions</h2>
+            <div class="subMain-textBox_flexBox">
+                <p class="subMain-textBox_p">2011年通期の世界市場での販売実績はBMWグループ全体として166万8982台、内訳はBMW138万384台、MINI28万5060台、ロールスロイス3538台、売上高は688億2100万ユーロ（2003年通期の世界市場での販売実績はBMWグループ全体として110万4916台、売上高は415億2500万ユーロ）。</p>
+                <p class="subMain-textBox_p">BMWは同族会社であり、株式の約47%がズザンネ・クラッテン、シュテファン・クヴァントら、ドイツ・クヴァント家により所有されている。経営は良好であり、過去40年以上赤字を出していないとも言われる。一方、傘下に収めた英国ローバー・グループの経営再建には失敗し、2000年、同グループは解体に至った。ランドローバーをフォードに譲渡、収益の見込めるMINIについては自社で継続所有、その他、ローバー、MGなどをたった10ポンドで英国の投資会社に売却したことは話題となった。 生産拠点について、1970年代から稼動する南アフリカの工場のほか、近年はアメリカ、中国、パキスタンなど、ドイツ国外における展開に積極的である。</p>
+            </div>
+        </div>
+    </main>
+  </div>
+</template>
+
+<script>
+export default {}
+</script>
