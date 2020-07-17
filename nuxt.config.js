@@ -28,6 +28,9 @@ export default {
       {src:'js/menu.js'}
     ]
   },
+  router: {
+    base: '/StaticToNuxt/'
+  },
   /*
   ** Global CSS
   */
